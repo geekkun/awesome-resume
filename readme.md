@@ -1,6 +1,6 @@
 # Awesome Resume [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A curated list of awesome cv, resumes, portfolios and personal websites
+> A curated list of awesome CVs, resumes, portfolios and personal websites
 
 <p>
     <sub>Follow me on <a href="https://twitter.com/the_kuznetsov">Twitter</a>.</sub>
