@@ -8,15 +8,15 @@
 
 ## Contents
 
-- [Developers](#Developers)
-- [Another Section](#Designers)
+- [Developers](#developers)
+- [Another Section](#designers)
 
 
 ## Developers
 ### Gamified resumes
 
-- [ROBBY LEONARDI](http://www.rleonardi.com/interactive-resume/) - 2D game
-- [Bruno Simon](https://bruno-simon.com/#cybertruck) - 3D game
+- [ROBBY LEONARDI](http://www.rleonardi.com/interactive-resume/) - 2D game.
+- [Bruno Simon](https://bruno-simon.com/#cybertruck) - 3D game.
   
 ### Web Developers
 - [Jacek Jeznach](https://jacekjeznach.com/) 
