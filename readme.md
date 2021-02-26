@@ -1,6 +1,6 @@
 # Awesome Resume [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A curated list of awesome cv, resumes and portfolios
+> A curated list of awesome cv, resumes, portfolios and personal websites
 
 <p>
     <sub>Follow me on <a href="https://twitter.com/the_kuznetsov">Twitter</a>.</sub>
@@ -8,24 +8,30 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Developers](#Developers)
+- [Another Section](#Designers)
 
 
-## Section
+## Developers
+### Gamified resumes
 
-About this section. Optional. Keep this short and focus on the list.
+- [ROBBY LEONARDI](http://www.rleonardi.com/interactive-resume/) - 2D game
+- [Bruno Simon](https://bruno-simon.com/#cybertruck) - 3D game
+  
+### Web Developers
+- [Jacek Jeznach](https://jacekjeznach.com/) 
+- [Riccardo Zanutta](http://riccardozanutta.com/) 
+- [Albino Tonnina](https://albinotonnina.com/) 
+- [Prashant Sani](https://prashantsani.com/) 
+- [Iuri de Paula](https://iuri.is/) 
 
-- [List item](http://example.com)
-- [List item](http://example.com)
 
 
-## Another Section
+## Designers
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Dries Van Broeck](http://driesvanbroeck.be/)
+- [Vitali Senevych](https://senevych.com/)
+- [Eder Anaya](https://ederanaya.me/)
 
 
 ## Contribute
