@@ -9,7 +9,7 @@
 ## Contents
 
 - [Developers](#developers)
-- [Another Section](#designers)
+- [Designers](#designers)
 
 
 ## Developers
