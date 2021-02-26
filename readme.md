@@ -10,6 +10,7 @@
 
 - [Developers](#developers)
 - [Designers](#designers)
+- [Contribute](#contribute)
 
 
 ## Developers
